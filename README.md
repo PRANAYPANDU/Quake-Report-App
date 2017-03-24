@@ -1,0 +1,1 @@
+An Android application which reports recent Earth Quakes all over the world.It retrieves data from USGS website.This application is made on Android Studio.It retrives data using JSON response from the website.
